@@ -42,20 +42,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/loreelimabarbosaa/loreelimabarbosaa/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/317v35qir7d3l5l3rcqpvrv4hade">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=317v35qir7d3l5l3rcqpvrv4hade&count=5" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-
 <img src="https://raw.githubusercontent.com/loreelimabarbosaa/loreelimabarbosaa/output/snake.svg" alt="Snake animation" />
 
 ###
