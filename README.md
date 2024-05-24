@@ -1,4 +1,4 @@
-<h2 align="left">Olá eu sou a Lorenna<br>. 🔭 Hoje eu estudo na Puc Campinas<br>. 🌱 Estudo Engenharia de Software<br>. 😄 Pronouns: ela/dela</h2>
+<h2 align="left">Olá eu sou a Lorenna<br>. 🔭 Hoje eu estudo na Puc Campinas<br>. 🌱  Engenharia de Software<br>. 😄 Pronouns: ela/dela</h2>
 
 ###
 
